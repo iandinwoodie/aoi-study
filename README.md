@@ -1,10 +1,8 @@
-pdbs-phase-1
-==============================
+# pdbs-study-1
 
 Associations Between Owner Personality and Psychological Status and The Prevalence of Canine Behavior Problems
 
-Project Organization
-------------
+## Project Organization
 
     ├── LICENSE
     ├── README.md          <- The top-level README for developers using this project.

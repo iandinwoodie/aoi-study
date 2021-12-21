@@ -3,6 +3,7 @@
 <p align="left">
     <a href="LICENSE" alt="License">
         <img src="https://img.shields.io/github/license/iandinwoodie/aoi-study" /></a>
+    <img src="https://img.shields.io/github/repo-size/iandinwoodie/aoi-study" />
 </p>
 
 This is the data repository for the Animal-Owner Interaction Study conducted by

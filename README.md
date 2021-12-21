@@ -1,4 +1,8 @@
-<h1 align="center">Animal-Owner Interaction Study Data</h1>
+<p align="center">
+  <img src="assets/images/repo-card.png"
+      alt="Self-Reported Owner Personality and Psychological Status, and Canine Behavior Problems, World: 2017"
+      title="aois-data" />
+</p>
 
 <p align="left">
     <a href="LICENSE" alt="License">
@@ -12,6 +16,8 @@
         <img src="https://img.shields.io/github/v/tag/iandinwoodie/aois-data" /></a>
 </p>
 
+---
+
 This is the data repository for the Animal-Owner Interaction Study (AOIS)
 conducted by Dr. Nicholas Dodman from the Animal Behavior Department of Clinical
 Sciences at the Cummings School of Veterinary Medicine at Tufts University and
@@ -22,7 +28,7 @@ Cummings School of Veterinary Medicine at Tufts University.
 
 ## Citation
 
-This data set can be cited using the following citation:
+This data set can be cited as follows:
 
 ```txt
 Dodman, N. H., Dinwoodie, I. R., & Serpell, J. A. (2018). Self-Reported Owner

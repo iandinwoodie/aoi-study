@@ -5,10 +5,11 @@
         <img src="https://img.shields.io/github/license/iandinwoodie/aois-data" /></a>
     <a href="CITATION.cff" alt="Citation">
         <img src="https://img.shields.io/badge/citation-dataset-teal" /></a>
-    <a href="https://doi.org/10.1371/journal.pone.0192846" alt="article">
+    <a href="https://doi.org/10.1371/journal.pone.0192846" alt="Article">
         <img src="https://img.shields.io/badge/article-PLOS_ONE-purple" /></a>
     <img src="https://img.shields.io/github/repo-size/iandinwoodie/aois-data" />
-    <img src="https://img.shields.io/github/v/tag/iandinwoodie/aois-data" />
+    <a href="https://github.com/iandinwoodie/aois-data/releases" alt="Latest Release">
+        <img src="https://img.shields.io/github/v/tag/iandinwoodie/aois-data" /></a>
 </p>
 
 This is the data repository for the Animal-Owner Interaction Study (AOIS)

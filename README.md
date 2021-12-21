@@ -25,9 +25,10 @@ ONE 13(2): e0192846. https://doi.org/10.1371/journal.pone.0192846
 ## Project Organization
 
 ```txt
-├── LICENSE    <- License establishing project terms of use.
-├── README.md  <- The top-level README for this project.
+├── CITATION.cff  <- Citation file for this data set.
+├── LICENSE       <- License establishing project terms of use.
+├── README.md     <- The top-level README for this project.
 ├── data
-│   └── raw    <- The original, immutable data dump.
-└── docs       <- Data dictionary and questionnaire.
+│   └── raw       <- The original, immutable data dump.
+└── docs          <- Data dictionary and questionnaire.
 ```

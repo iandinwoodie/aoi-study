@@ -3,6 +3,10 @@
 <p align="left">
     <a href="LICENSE" alt="License">
         <img src="https://img.shields.io/github/license/iandinwoodie/aois-data" /></a>
+    <a href="CITATION.cff" alt="Citation">
+        <img src="https://img.shields.io/badge/citation-dataset-red" /></a>
+    <a href="https://doi.org/10.1371/journal.pone.0192846" alt="article">
+        <img src="https://img.shields.io/badge/article-PLOS_ONE-purple" /></a>
     <img src="https://img.shields.io/github/repo-size/iandinwoodie/aois-data" />
 </p>
 

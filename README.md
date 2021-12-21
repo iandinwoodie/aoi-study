@@ -1,16 +1,16 @@
-<h1 align="center">Animal-Owner Interaction Study</h1>
+<h1 align="center">Animal-Owner Interaction Study Data</h1>
 
 <p align="left">
     <a href="LICENSE" alt="License">
-        <img src="https://img.shields.io/github/license/iandinwoodie/aoi-study" /></a>
-    <img src="https://img.shields.io/github/repo-size/iandinwoodie/aoi-study" />
+        <img src="https://img.shields.io/github/license/iandinwoodie/aois-data" /></a>
+    <img src="https://img.shields.io/github/repo-size/iandinwoodie/aois-data" />
 </p>
 
-This is the data repository for the Animal-Owner Interaction Study conducted by
-Dr. Nicholas Dodman from the Animal Behavior Department of Clinical Sciences at
-the Cummings School of Veterinary Medicine at Tufts University and Dr. James
-Serpell from the Deparment of Clinical Studies at the Unversity of Pennsylvania
-School of Veterinary Medicine.
+This is the data repository for the Animal-Owner Interaction Study (AOIS)
+conducted by Dr. Nicholas Dodman from the Animal Behavior Department of Clinical
+Sciences at the Cummings School of Veterinary Medicine at Tufts University and
+Dr. James Serpell from the Deparment of Clinical Studies at the Unversity of
+Pennsylvania School of Veterinary Medicine.
 
 ## Publication
 

@@ -8,7 +8,7 @@
     <a href="https://doi.org/10.1371/journal.pone.0192846" alt="article">
         <img src="https://img.shields.io/badge/article-PLOS_ONE-purple" /></a>
     <img src="https://img.shields.io/github/repo-size/iandinwoodie/aois-data" />
-    <img src="https://img.shields.io/github/v/tag/iandinwoodie/aois-data?sort=semver" />
+    <img src="https://img.shields.io/github/v/tag/iandinwoodie/aois-data" />
 </p>
 
 This is the data repository for the Animal-Owner Interaction Study (AOIS)
